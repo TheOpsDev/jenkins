@@ -1,0 +1,10 @@
+plugins:
+  - artifactId: powershell
+    source:
+      version: latest
+  - artifactId: rebuild
+    source:
+      version: latest
+  - artifactId: docker-workflow
+    source:
+      version: latest
