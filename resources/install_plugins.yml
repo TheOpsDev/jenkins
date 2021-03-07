@@ -8,3 +8,18 @@ plugins:
   - artifactId: docker-workflow
     source:
       version: latest
+  - artifactId: blueocean
+    source:
+      version: latest
+  - artifactId: build-name-setter
+    source:
+      version: latest
+  - artifactId: kubernetes
+    source:
+      version: latest
+  - artifactId: scriptler
+    source:
+      version: latest
+  - artifactId: docker-slaves
+    source:
+      version: latest
