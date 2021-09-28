@@ -23,3 +23,9 @@ plugins:
   - artifactId: docker-slaves
     source:
       version: latest
+  - artifactId: configuration-as-code
+    source:
+      version: latest
+  - artifactId: workflow-cps-global-lib
+    source:
+      version: latest
